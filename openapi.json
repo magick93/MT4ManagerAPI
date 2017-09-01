@@ -3,6 +3,10 @@
   "info": {
     "title": "MT4 Manager",
     "description": "",
+    "license": {
+      "name": "GNU AGPLv3",
+      "url": "https://www.gnu.org/licenses/agpl.txt"
+    },
     "version": "1.0.0"
   },
   "paths": {
