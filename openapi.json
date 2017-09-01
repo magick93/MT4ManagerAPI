@@ -16,10 +16,6 @@
             "in": "query",
             "description": "User name",
             "type": "string"
-          },
-          {
-            "name": "body",
-            "in": "body"
           }
         ],
         "responses": {
